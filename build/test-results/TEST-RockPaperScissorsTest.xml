@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RockPaperScissorsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-28T17:30:45" hostname="epicodus-3.local" time="0.001">
+  <properties/>
+  <testcase name="compareStrings_checkForSameInput_String" classname="RockPaperScissorsTest" time="0.001"/>
+  <testcase name="compareStrings_checkForScissorsPaper_String" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="runRPS_checkForupdate_String" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="compareStrings_checkForRockPaper_String" classname="RockPaperScissorsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
